@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @RajatVarshney18
-- 👀 I’m interested in Machine Learning, Deep learning, Data Science, Computer Vision etc.
-- 🌱 I’m currently learning Machine Learning and deep Learning.
+- Currently pursuing MTech CSE @ IIT Hyderabad
+- 👀 🤝 Open Source: Active DL/ML enthusiast open to collaborations.
+- 🛠️ Tech Stack: Machine Learning, Deep Learning, GenAI, C++/Python Programming
+- 👨‍🍳 Offline: Cooking, Reading, & Traveling.
 - 📫 You can reach me at- rajatyo1862000@gmail.com
 
 <!---
